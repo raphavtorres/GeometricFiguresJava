@@ -3,7 +3,6 @@ package FlatFigures;
 public class EquilateralTriangle extends FlatFigures{
     double side;
     
-
     public EquilateralTriangle(double side) {
         this.side = side;
     }

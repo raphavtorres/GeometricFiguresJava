@@ -8,11 +8,11 @@ e nas espacias volume e área superficial.
 -----------------
 
 Cada figura em uma classe OK
-Todas instanciadas na main **
-Fazer com menu **
-Programa em laço até o usuario sair **
-Não aceita negativos nem caracter especial **
-Fazer somente com as variaveis necessarias **
+Todas instanciadas na main OK
+Fazer com menu OK
+Programa em laço até o usuario sair OK
+Não aceita negativos nem caracter especial OK
+Fazer somente com as variaveis necessarias OK
 
 -----------------
 

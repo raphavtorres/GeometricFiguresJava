@@ -3,7 +3,6 @@ package FlatFigures;
 public class Hexagon extends FlatFigures{
     double side;
     
-
     public Hexagon(double side) {
         this.side = side;
     }
